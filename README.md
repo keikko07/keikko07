@@ -1,12 +1,6 @@
 # Sobre mim
-
-- 👋 Hi, I’m @keikko07
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Juliana Keiko Amorim
+- 👀 I’m interested in learning 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-keikko07/keikko07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me .
