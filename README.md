@@ -1,6 +1,4 @@
 # Sobre mim
 - 👋 Hi, I’m Juliana Keiko Amorim
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .
+- 👀 I’m interested in learning to program
+- 📫 How to reach me @keikko
